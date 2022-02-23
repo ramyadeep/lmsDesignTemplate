@@ -1,0 +1,15 @@
+body {
+    background-image: url('../../images/11.png');
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+    background-size: cover;
+}
+.mt-50{
+    margin-top: 50px;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color: yellowgreen;
+}
